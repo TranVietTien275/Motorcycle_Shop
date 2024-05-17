@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="lib2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/XeMay 16_8/lib/activation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/XeMay 16_8/lib/commons-compress-1.18.jar!/" />
+      <root url="jar://$PROJECT_DIR$/XeMay 16_8/lib/xmlbeans-3.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/XeMay 16_8/lib/poi-ooxml-4.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/XeMay 16_8/lib/sqljdbc42.jar!/" />
+      <root url="jar://$PROJECT_DIR$/XeMay 16_8/lib/javax.mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/XeMay 16_8/lib/commons-codec-1.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/XeMay 16_8/lib/commons-collections4-4.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/XeMay 16_8/lib/jcommon-1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/XeMay 16_8/lib/jfreechart-1.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/XeMay 16_8/lib/poi-4.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/XeMay 16_8/lib/javax.xml.bind.jar!/" />
+      <root url="jar://$PROJECT_DIR$/XeMay 16_8/lib/poi-ooxml-schemas-4.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
